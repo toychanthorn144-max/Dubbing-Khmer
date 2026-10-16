@@ -1,0 +1,6 @@
+{
+  "name": "Khmer AI Video Dubber - កម្មវិធីបញ្ចូលសំឡេងខ្មែរ",
+  "description": "កម្មវិធីបញ្ចូលសំឡេងវីដេអូជាភាសាខ្មែរដោយស្វ័យប្រវត្តិជាមួយ Gemini AI, Khmer Translation, TTS Voice Engine និង Audio Mixing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

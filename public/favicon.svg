@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="favBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="favGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="url(#favBg)" stroke="url(#favGold)" stroke-width="4" />
+  <circle cx="64" cy="64" r="42" fill="#0f172a" stroke="url(#favGold)" stroke-width="2" />
+  <!-- Mic -->
+  <rect x="58" y="44" width="12" height="24" rx="6" fill="url(#favGold)" />
+  <path d="M 52 58 C 52 74, 76 74, 76 58" fill="none" stroke="url(#favGold)" stroke-width="3" stroke-linecap="round" />
+  <line x1="64" y1="72" x2="64" y2="84" stroke="url(#favGold)" stroke-width="3" stroke-linecap="round" />
+  <line x1="56" y1="84" x2="72" y2="84" stroke="url(#favGold)" stroke-width="3" stroke-linecap="round" />
+  <!-- Small Play Dot -->
+  <circle cx="86" cy="80" r="9" fill="#e11d48" />
+  <polygon points="84,76 90,80 84,84" fill="#ffffff" />
+</svg>
